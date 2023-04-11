@@ -9,6 +9,9 @@ import _0202_class from './_02_style/_0202_class';
 import _0311_list from './_03_useRef/_0311_list';
 import _0313_checkbox from './_03_useRef/_0313_checkbox';
 import _0403_tag from './_04_createTag/_0403_tag';
+import _0602_useState from './_06_useState/_0602_useState';
+import _0604_array from './_06_useState/_0604_array';
+import _0606_삼항연산자 from './_06_useState/_0606_삼항연산자';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -20,7 +23,10 @@ root.render(
     // <_0202_class></_0202_class>
     // <_0311_list></_0311_list>
     // <_0313_checkbox></_0313_checkbox>
+    // <_0403_tag></_0403_tag>
+    // <_0602_useState></_0602_useState>
+    // <_0604_array></_0604_array>
   <>
-    <_0403_tag></_0403_tag>
+    <_0606_삼항연산자></_0606_삼항연산자>
   </>
 );

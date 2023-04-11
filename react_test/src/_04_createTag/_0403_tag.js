@@ -21,7 +21,7 @@ function _0403_append() {
     for (let i = 0; i < studentList.length; i+=2) {
       studentList[i].style.color = 'dodgerblue';
     }
-    // list.current.children[1].style.color = 'dodgerblue';
+    list.current.children[1].style.color = 'tomato';
   }
 
   const init = () => {
