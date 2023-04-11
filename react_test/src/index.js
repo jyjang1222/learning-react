@@ -12,6 +12,7 @@ import _0403_tag from './_04_createTag/_0403_tag';
 import _0602_useState from './_06_useState/_0602_useState';
 import _0604_array from './_06_useState/_0604_array';
 import _0606_삼항연산자 from './_06_useState/_0606_삼항연산자';
+import _0607_리스트 from './_06_useState/_0607_리스트';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -26,7 +27,8 @@ root.render(
     // <_0403_tag></_0403_tag>
     // <_0602_useState></_0602_useState>
     // <_0604_array></_0604_array>
+    // <_0606_삼항연산자></_0606_삼항연산자>
   <>
-    <_0606_삼항연산자></_0606_삼항연산자>
+    <_0607_리스트></_0607_리스트>
   </>
 );

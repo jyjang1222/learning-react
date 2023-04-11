@@ -7,6 +7,7 @@ function _0606_삼항연산자() {
       <div>
           {Temp ? <h1>Temp</h1> : null}
           <button onClick = {() => {setTemp(!Temp);}}>클릭</button>
+          <p>Test</p>
       </div>
     </>
   )
